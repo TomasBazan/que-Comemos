@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Que-Comemeos",
-    "slug": "Que-Comemeos",
+    "name": "Qué Comemos",
+    "slug": "que-comemos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,14 +15,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#FBF7F2"
+      },
+      "package": "com.tomasbazan.quecomemos"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-status-bar"
-    ]
+      "expo-status-bar",
+      "expo-router"
+    ],
+    "scheme": "quecomemos"
   }
 }
