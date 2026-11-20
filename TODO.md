@@ -2,10 +2,10 @@
 
 0 para hacer, 1 en proceso, 2 hecho
 
-- [] Mostrar la receta
-- [] Crear una receeta
-- [] Buscador de receta (por nombre/ingredientes)
-- [] Filtrar recetas por categoria
-- [] Eliminar receta
-- [] Guardar receta (persistir en Base de datos)
-- [] Favoritos
+- [2] Mostrar la receta
+- [2] Crear una receeta
+- [2] Buscador de receta (por nombre/ingredientes)
+- [2] Filtrar recetas por categoria
+- [2] Eliminar receta
+- [2] Guardar receta (persistir en Base de datos)
+- [2] Favoritos
